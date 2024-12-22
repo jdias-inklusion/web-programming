@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Connecting_With_Other_APIs.props" />
+</Project>
